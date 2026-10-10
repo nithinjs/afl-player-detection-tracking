@@ -1,0 +1,17 @@
+# Large / private artefacts
+*.pt
+*.mp4
+*.avi
+*.zip
+runs/
+datasets/
+*.csv
+
+# Secrets
+.env
+*.key
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
